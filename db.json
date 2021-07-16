@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Asparagus Fern",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/stock%2Fshutterstock_1008398263",
+      "price": "14.99",
+      "id": 8
+    },
+    {
+      "name": "Green Crack Cannabis Sativa",
+      "image": "https://images.weedmaps.com/strains/000/000/101/avatar/original/1560552818-171222_Bonsai-Cultivation_Green-Crack_1.jpg",
+      "price": "55",
+      "id": 9
+    },
+    {
+      "name": "Hindu Kush Cannabis Indica",
+      "image": "https://westcoastnugz.com/wp-content/uploads/2020/02/WhatsApp-Image-2020-04-27-at-7.34.29-AM.jpeg",
+      "price": "50",
+      "id": 10
     }
   ]
 }
